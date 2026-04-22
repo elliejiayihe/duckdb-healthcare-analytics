@@ -1,9 +1,8 @@
 # duckdb-healthcare-analytics
-DSCI551 Class Project
 
 Setup and run instructions 
 1. Navigate to project folder:
-   cd PulseInsight_Project
+   cd code/PulseInsight_DuckDB_Queries.ipynb
 
 2. Install required packages (ONE TIME ONLY):
    pip install duckdb pandas notebook
